@@ -1,6 +1,6 @@
 # SeSAC-project
 
-## project-1
+## project-1 Stock
 
 ## project-2
 
